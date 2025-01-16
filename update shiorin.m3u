@@ -17437,7 +17437,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 https://jmp2.uk/sam-GBBC300003UQ.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Y2fpH7p/20241230-032250.jpg" group-title="• V - LEAGUE KOREA", KBSNSports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="• V - LEAGUE KOREA", KBSNSports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
 
