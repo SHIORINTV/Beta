@@ -127,11 +127,14 @@ https://fhlsport121.fjs40b8.xyz/token-cxUqmbmXK%2FaGv2x7w%2FY6mz6DlMDT13jjaHH%2F
 
 
 
+https://qtvid.pw/partner/drm.php?id=114&type=drm
+http://terabit.web.id/media.mpd?id=10&type=dash
 
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" group-title="vision" tvg-logo="https://www.visionplus.id/images/repository/373/437373-SNAPSHOT-l.png", Channel 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ApleWebKit/537.36 (KHTML, like gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -140,6 +143,7 @@ http://gratis123.x10.mx/gratis/vis_dash.php?id=1
 
 #EXTINF:-1 tvg-id="" group-title="vision" tvg-logo="https://www.visionplus.id/images/repository/374/437374-SNAPSHOT-l.png", Channel 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ApleWebKit/537.36 (KHTML, like gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
