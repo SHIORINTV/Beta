@@ -1,4 +1,4 @@
-oh<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -188,6 +188,7 @@ http://gratis123.x10.mx/gratis/vis_dash.php?id=10
 
 #EXTINF:-1 tvg-id="" group-title="vision" tvg-logo="https://www.visionplus.id/images/repository/172/438172-SNAPSHOT-l.png", Channel 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ApleWebKit/537.36 (KHTML, like gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
